@@ -11,6 +11,7 @@ A simple and interactive counter app built using React.js. This project helped m
 ✅ Component-based structure
 
 💡 Features:
+
 Increment and decrement the counter
 
 Check if the number is even or odd
@@ -19,4 +20,4 @@ Identify whether the number is prime
 
 Smooth UI with instant feedback
 
-📽️ Watch the Video ()
+📽️ Watch the Video (https://drive.google.com/file/d/1DimQlf9PEELu0hWlJEesnOT7VKvBlCWE/view)
