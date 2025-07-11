@@ -1,4 +1,5 @@
-🔢 Counter App
+<h1>🔢 Counter App</h1>
+
 A simple and interactive counter app built using React.js. This project helped me understand core React concepts like:
 
 ✅ useState hook
