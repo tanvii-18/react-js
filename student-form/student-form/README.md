@@ -4,7 +4,7 @@ A student registration form built using React, powered by Formik for form handli
 
 <h4>🎥 Project Demo:</h4>
 
-Preview : 
+Preview : <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ab39328b-a6e9-4042-9d51-8fca18ff9aee" />
 
 video here: 
 
