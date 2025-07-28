@@ -1,12 +1,33 @@
-# React + Vite
+<h2>📌 Project Name: Integrated Bootstrap Template</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h4>Description:</h4>
 
-Currently, two official plugins are available:
+This is a beginner-friendly, responsive web template built using React and Bootstrap 5, enhanced with custom CSS styling. The layout features a clean two-column structure — an introduction with a profile image, personal info, call-to-action button, and social icons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h4>📽️ Live Demo / Walkthrough Video :</h4> (https://drive.google.com/file/d/1Zp9kfjxggsluIqnb5ijSn20gR-fxl9se/view?usp=sharing)
 
-## Expanding the ESLint configuration
+<h4>🧑‍💻 The left section includes:</h4>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A short introduction
+
+Personal details (as a freelance web developer)
+
+A call-to-action button
+
+Social media icons
+
+<h4>🖼️ The right section includes:</h4>
+
+A featured profile image
+
+<h4>Key Highlights:</h4>
+
+🔥 Styled using Bootstrap and custom CSS
+
+🎯 React-based structure
+
+💻 Responsive across devices
+
+🌐 Social icon integration using react-icons
+
+💅 Clean design with subtle box shadows and hover effects
